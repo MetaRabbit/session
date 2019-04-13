@@ -1,6 +1,6 @@
 # Session
 
-Session Management for QOR
+Session Management for QOR without default manager.
 
 It wrapped other libs like [SCS](https://github.com/alexedwards/scs), [Gorilla Session](http://www.gorillatoolkit.org/pkg/sessions) into a common interface, which will be used for QOR libs and your application.
 
